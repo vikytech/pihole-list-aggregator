@@ -36,7 +36,7 @@ A normal blocking adlist must therefore not mix in `@@||domain^` entries.
 3. Run **Actions → Update Pi-hole blocklist → Run workflow** once.
 4. Add this URL in Pi-hole:
 
-   `https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPOSITORY/main/build/pihole.txt`
+   `https://raw.githubusercontent.com/vikytech/pihole-list-aggregator/main/build/pihole.txt`
 
 5. Update Gravity.
 6. Confirm the combined list works, then disable the original individual lists.
