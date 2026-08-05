@@ -29,19 +29,12 @@ A normal blocking adlist must therefore not mix in `@@||domain^` entries.
 - `build/abp.txt` — supported `||domain^` rules only.
 - `build/stats.json` — counts and failures for every source.
 
-## Setup
-
-1. Create a public GitHub repository.
-2. Upload this project, preserving the `.github` directory.
-3. Run **Actions → Update Pi-hole blocklist → Run workflow** once.
-4. Add this URL in Pi-hole:
+1. Add this URL in Pi-hole:
 
    `https://raw.githubusercontent.com/vikytech/pihole-list-aggregator/main/build/pihole.txt`
 
-5. Update Gravity.
-6. Confirm the combined list works, then disable the original individual lists.
-
-A private repository's raw URL is not anonymously readable by Pi-hole.
+2. Update Gravity.
+3. Confirm the combined list works, then disable the original individual lists.
 
 ## Deduplication
 
