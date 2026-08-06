@@ -124,13 +124,13 @@
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 1911932,
+      "downloaded_bytes": 1899074,
       "error": null,
-      "exact_entries_seen": 63943,
+      "exact_entries_seen": 63553,
       "ignored_entries": 0,
       "status": "ok",
       "unique_abp_entries": 0,
-      "unique_exact_entries": 63943,
+      "unique_exact_entries": 63553,
       "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"
     },
     {
@@ -145,13 +145,13 @@
       "url": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt"
     },
     {
-      "abp_entries_seen": 56362,
-      "downloaded_bytes": 1251643,
+      "abp_entries_seen": 56395,
+      "downloaded_bytes": 1252368,
       "error": null,
       "exact_entries_seen": 0,
       "ignored_entries": 0,
       "status": "ok",
-      "unique_abp_entries": 56362,
+      "unique_abp_entries": 56395,
       "unique_exact_entries": 0,
       "url": "https://small.oisd.nl"
     },
@@ -190,7 +190,7 @@
     }
   ],
   "successful_sources": 17,
-  "total_unique_entries": 1818252,
-  "unique_abp_rules": 263418,
-  "unique_exact_domains": 1554834
+  "total_unique_entries": 1818373,
+  "unique_abp_rules": 263451,
+  "unique_exact_domains": 1554922
 }
