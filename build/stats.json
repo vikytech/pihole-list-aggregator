@@ -1,5 +1,5 @@
 {
-  "failed_sources": 0,
+  "failed_sources": 2,
   "sources": [
     {
       "abp_entries_seen": 51831,
@@ -124,73 +124,73 @@
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 1855573,
+      "downloaded_bytes": 1838144,
       "error": null,
-      "exact_entries_seen": 62394,
+      "exact_entries_seen": 61843,
       "ignored_entries": 0,
       "status": "ok",
       "unique_abp_entries": 0,
-      "unique_exact_entries": 62394,
+      "unique_exact_entries": 61843,
       "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 471456,
+      "downloaded_bytes": 479790,
       "error": null,
-      "exact_entries_seen": 14547,
+      "exact_entries_seen": 14793,
       "ignored_entries": 0,
       "status": "ok",
       "unique_abp_entries": 0,
-      "unique_exact_entries": 14547,
+      "unique_exact_entries": 14793,
       "url": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt"
     },
     {
-      "abp_entries_seen": 56795,
-      "downloaded_bytes": 1261285,
+      "abp_entries_seen": 57033,
+      "downloaded_bytes": 1266682,
       "error": null,
       "exact_entries_seen": 0,
       "ignored_entries": 0,
       "status": "ok",
-      "unique_abp_entries": 56795,
+      "unique_abp_entries": 57033,
       "unique_exact_entries": 0,
       "url": "https://small.oisd.nl"
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 4562337,
-      "error": null,
+      "downloaded_bytes": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "exact_entries_seen": 0,
-      "ignored_entries": 217574,
-      "status": "ok",
+      "ignored_entries": 0,
+      "status": "failed",
       "unique_abp_entries": 0,
       "unique_exact_entries": 0,
       "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt"
     },
     {
-      "abp_entries_seen": 217574,
-      "downloaded_bytes": 4779896,
-      "error": null,
+      "abp_entries_seen": 0,
+      "downloaded_bytes": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "exact_entries_seen": 0,
       "ignored_entries": 0,
-      "status": "ok",
-      "unique_abp_entries": 217574,
+      "status": "failed",
+      "unique_abp_entries": 0,
       "unique_exact_entries": 0,
       "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 31029082,
+      "downloaded_bytes": 31037983,
       "error": null,
-      "exact_entries_seen": 1544595,
+      "exact_entries_seen": 1545132,
       "ignored_entries": 0,
       "status": "ok",
       "unique_abp_entries": 0,
-      "unique_exact_entries": 1544594,
+      "unique_exact_entries": 1545131,
       "url": "https://raw.githubusercontent.com/r0xd4n3t/pihole-adblock-lists/main/pihole_adlists.txt"
     }
   ],
-  "successful_sources": 17,
-  "total_unique_entries": 1817906,
-  "unique_abp_rules": 263457,
-  "unique_exact_domains": 1554449
+  "successful_sources": 15,
+  "total_unique_entries": 1668049,
+  "unique_abp_rules": 113241,
+  "unique_exact_domains": 1554808
 }
