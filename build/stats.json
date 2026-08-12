@@ -47,13 +47,13 @@
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 2988200,
+      "downloaded_bytes": 2925088,
       "error": null,
-      "exact_entries_seen": 99558,
+      "exact_entries_seen": 97647,
       "ignored_entries": 0,
       "status": "ok",
       "unique_abp_entries": 0,
-      "unique_exact_entries": 99558,
+      "unique_exact_entries": 97647,
       "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
     },
     {
@@ -124,13 +124,13 @@
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 1821935,
+      "downloaded_bytes": 1815339,
       "error": null,
-      "exact_entries_seen": 61383,
+      "exact_entries_seen": 61232,
       "ignored_entries": 0,
       "status": "ok",
       "unique_abp_entries": 0,
-      "unique_exact_entries": 61383,
+      "unique_exact_entries": 61232,
       "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"
     },
     {
@@ -145,13 +145,13 @@
       "url": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt"
     },
     {
-      "abp_entries_seen": 56284,
-      "downloaded_bytes": 1249065,
+      "abp_entries_seen": 56479,
+      "downloaded_bytes": 1253371,
       "error": null,
       "exact_entries_seen": 0,
       "ignored_entries": 0,
       "status": "ok",
-      "unique_abp_entries": 56284,
+      "unique_abp_entries": 56479,
       "unique_exact_entries": 0,
       "url": "https://small.oisd.nl"
     },
@@ -179,18 +179,18 @@
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 31051025,
+      "downloaded_bytes": 31070826,
       "error": null,
-      "exact_entries_seen": 1545908,
+      "exact_entries_seen": 1546875,
       "ignored_entries": 0,
       "status": "ok",
       "unique_abp_entries": 0,
-      "unique_exact_entries": 1545907,
+      "unique_exact_entries": 1546874,
       "url": "https://raw.githubusercontent.com/r0xd4n3t/pihole-adblock-lists/main/pihole_adlists.txt"
     }
   ],
   "successful_sources": 15,
-  "total_unique_entries": 1659777,
-  "unique_abp_rules": 103813,
-  "unique_exact_domains": 1555964
+  "total_unique_entries": 1660918,
+  "unique_abp_rules": 104007,
+  "unique_exact_domains": 1556911
 }
