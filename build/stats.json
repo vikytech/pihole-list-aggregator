@@ -2,46 +2,46 @@
   "failed_sources": 0,
   "sources": [
     {
-      "abp_entries_seen": 43339,
-      "downloaded_bytes": 2056631,
+      "abp_entries_seen": 44099,
+      "downloaded_bytes": 2073246,
       "error": null,
       "exact_entries_seen": 3,
-      "ignored_entries": 9293,
+      "ignored_entries": 9292,
       "status": "ok",
-      "unique_abp_entries": 43338,
+      "unique_abp_entries": 44098,
       "unique_exact_entries": 3,
       "url": "https://easylist-downloads.adblockplus.org/v3/full/global-filters+easylist.txt"
     },
     {
-      "abp_entries_seen": 40527,
-      "downloaded_bytes": 1435780,
+      "abp_entries_seen": 40500,
+      "downloaded_bytes": 1435054,
       "error": null,
       "exact_entries_seen": 8,
-      "ignored_entries": 12871,
+      "ignored_entries": 12868,
       "status": "ok",
-      "unique_abp_entries": 40526,
+      "unique_abp_entries": 40499,
       "unique_exact_entries": 8,
       "url": "https://easylist-downloads.adblockplus.org/v3/full/easyprivacy.txt"
     },
     {
-      "abp_entries_seen": 43334,
-      "downloaded_bytes": 2032382,
+      "abp_entries_seen": 44094,
+      "downloaded_bytes": 2048997,
       "error": null,
       "exact_entries_seen": 3,
-      "ignored_entries": 9193,
+      "ignored_entries": 9192,
       "status": "ok",
-      "unique_abp_entries": 43333,
+      "unique_abp_entries": 44093,
       "unique_exact_entries": 3,
       "url": "https://easylist-downloads.adblockplus.org/v3/full/easylist.txt"
     },
     {
-      "abp_entries_seen": 873,
-      "downloaded_bytes": 598356,
+      "abp_entries_seen": 895,
+      "downloaded_bytes": 567279,
       "error": null,
       "exact_entries_seen": 2,
-      "ignored_entries": 905,
+      "ignored_entries": 911,
       "status": "ok",
-      "unique_abp_entries": 873,
+      "unique_abp_entries": 895,
       "unique_exact_entries": 2,
       "url": "https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt"
     },
@@ -124,13 +124,13 @@
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 1833820,
+      "downloaded_bytes": 1697569,
       "error": null,
-      "exact_entries_seen": 62528,
+      "exact_entries_seen": 57961,
       "ignored_entries": 0,
       "status": "ok",
       "unique_abp_entries": 0,
-      "unique_exact_entries": 62528,
+      "unique_exact_entries": 57961,
       "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"
     },
     {
@@ -145,35 +145,35 @@
       "url": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt"
     },
     {
-      "abp_entries_seen": 57286,
-      "downloaded_bytes": 1270903,
+      "abp_entries_seen": 58980,
+      "downloaded_bytes": 1317687,
       "error": null,
       "exact_entries_seen": 0,
       "ignored_entries": 0,
       "status": "ok",
-      "unique_abp_entries": 57286,
+      "unique_abp_entries": 58980,
       "unique_exact_entries": 0,
       "url": "https://small.oisd.nl"
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 4536313,
+      "downloaded_bytes": 4564292,
       "error": null,
       "exact_entries_seen": 0,
-      "ignored_entries": 216432,
+      "ignored_entries": 217939,
       "status": "ok",
       "unique_abp_entries": 0,
       "unique_exact_entries": 0,
       "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt"
     },
     {
-      "abp_entries_seen": 216432,
-      "downloaded_bytes": 4752730,
+      "abp_entries_seen": 217939,
+      "downloaded_bytes": 4782216,
       "error": null,
       "exact_entries_seen": 0,
       "ignored_entries": 0,
       "status": "ok",
-      "unique_abp_entries": 216432,
+      "unique_abp_entries": 217939,
       "unique_exact_entries": 0,
       "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"
     },
@@ -190,7 +190,7 @@
     }
   ],
   "successful_sources": 17,
-  "total_unique_entries": 1807805,
-  "unique_abp_rules": 254847,
-  "unique_exact_domains": 1552958
+  "total_unique_entries": 1810759,
+  "unique_abp_rules": 256617,
+  "unique_exact_domains": 1554142
 }
