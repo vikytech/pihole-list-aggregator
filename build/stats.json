@@ -47,13 +47,13 @@
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 2344072,
+      "downloaded_bytes": 2414225,
       "error": null,
-      "exact_entries_seen": 78141,
+      "exact_entries_seen": 80170,
       "ignored_entries": 0,
       "status": "ok",
       "unique_abp_entries": 0,
-      "unique_exact_entries": 78141,
+      "unique_exact_entries": 80170,
       "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
     },
     {
@@ -124,13 +124,13 @@
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 1364908,
+      "downloaded_bytes": 1388034,
       "error": null,
-      "exact_entries_seen": 45345,
+      "exact_entries_seen": 45805,
       "ignored_entries": 0,
       "status": "ok",
       "unique_abp_entries": 0,
-      "unique_exact_entries": 45343,
+      "unique_exact_entries": 45803,
       "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"
     },
     {
@@ -145,52 +145,52 @@
       "url": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt"
     },
     {
-      "abp_entries_seen": 56124,
-      "downloaded_bytes": 1259488,
+      "abp_entries_seen": 55943,
+      "downloaded_bytes": 1257445,
       "error": null,
       "exact_entries_seen": 0,
       "ignored_entries": 0,
       "status": "ok",
-      "unique_abp_entries": 56124,
+      "unique_abp_entries": 55943,
       "unique_exact_entries": 0,
       "url": "https://small.oisd.nl"
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 4746200,
+      "downloaded_bytes": 4780261,
       "error": null,
       "exact_entries_seen": 0,
-      "ignored_entries": 224572,
+      "ignored_entries": 226255,
       "status": "ok",
       "unique_abp_entries": 0,
       "unique_exact_entries": 0,
       "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt"
     },
     {
-      "abp_entries_seen": 224572,
-      "downloaded_bytes": 4970757,
+      "abp_entries_seen": 226255,
+      "downloaded_bytes": 5006501,
       "error": null,
       "exact_entries_seen": 0,
       "ignored_entries": 0,
       "status": "ok",
-      "unique_abp_entries": 224572,
+      "unique_abp_entries": 226255,
       "unique_exact_entries": 0,
       "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 30610159,
+      "downloaded_bytes": 30663276,
       "error": null,
-      "exact_entries_seen": 1524976,
+      "exact_entries_seen": 1527360,
       "ignored_entries": 0,
       "status": "ok",
       "unique_abp_entries": 0,
-      "unique_exact_entries": 1524975,
+      "unique_exact_entries": 1527359,
       "url": "https://raw.githubusercontent.com/r0xd4n3t/pihole-adblock-lists/main/pihole_adlists.txt"
     }
   ],
   "successful_sources": 17,
-  "total_unique_entries": 1799736,
-  "unique_abp_rules": 263695,
-  "unique_exact_domains": 1536041
+  "total_unique_entries": 1803053,
+  "unique_abp_rules": 265341,
+  "unique_exact_domains": 1537712
 }
