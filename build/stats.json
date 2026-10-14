@@ -124,13 +124,13 @@
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 1273282,
+      "downloaded_bytes": 1292666,
       "error": null,
-      "exact_entries_seen": 40085,
+      "exact_entries_seen": 40795,
       "ignored_entries": 0,
       "status": "ok",
       "unique_abp_entries": 0,
-      "unique_exact_entries": 40083,
+      "unique_exact_entries": 40793,
       "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"
     },
     {
@@ -145,13 +145,13 @@
       "url": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt"
     },
     {
-      "abp_entries_seen": 56686,
-      "downloaded_bytes": 1274558,
+      "abp_entries_seen": 56893,
+      "downloaded_bytes": 1279178,
       "error": null,
       "exact_entries_seen": 0,
       "ignored_entries": 0,
       "status": "ok",
-      "unique_abp_entries": 56686,
+      "unique_abp_entries": 56893,
       "unique_exact_entries": 0,
       "url": "https://small.oisd.nl"
     },
@@ -179,18 +179,18 @@
     },
     {
       "abp_entries_seen": 0,
-      "downloaded_bytes": 30638558,
+      "downloaded_bytes": 30679425,
       "error": null,
-      "exact_entries_seen": 1522963,
+      "exact_entries_seen": 1524856,
       "ignored_entries": 0,
       "status": "ok",
       "unique_abp_entries": 0,
-      "unique_exact_entries": 1522962,
+      "unique_exact_entries": 1524855,
       "url": "https://raw.githubusercontent.com/r0xd4n3t/pihole-adblock-lists/main/pihole_adlists.txt"
     }
   ],
   "successful_sources": 17,
-  "total_unique_entries": 1772268,
-  "unique_abp_rules": 238470,
-  "unique_exact_domains": 1533798
+  "total_unique_entries": 1773780,
+  "unique_abp_rules": 238673,
+  "unique_exact_domains": 1535107
 }
